@@ -1,0 +1,21 @@
+Link para donwload do GitHub: https://git-scm.com/downloads
+
+Comandos
+Dir -> listar pasta
+cd -> navegar local específico
+cls -> limpar terminal
+Tab -> auto completar
+mkdir -> criar pasta
+echo -> escrevi o que foi digitado no terminal
+> redirecionar arquivo
+del -> deletar
+rmdir -> deletar /s/q
+openssl shal -> criptografia
+
+ls -a  -> mostra aqrquivos ocultos
+git add* --> adicionar
+git commit -m  -> comitar
+git push origin master --> enviar
+git status =--> mostrar
+git clone -->clonar
+
